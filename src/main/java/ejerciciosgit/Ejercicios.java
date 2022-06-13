@@ -43,7 +43,7 @@ public class Ejercicios {
 
     public static void tipoVehiculo() {
         // Se debe cambiar el valor de la variable vehiculo
-        String vehiculo = "Tractomula";
+        String vehiculo = "Moto";
         System.out.println("Mi vehiculo es un(a): " + vehiculo);
     }
 
