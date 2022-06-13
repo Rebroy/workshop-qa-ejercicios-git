@@ -61,7 +61,7 @@ public class Ejercicios {
 
     public static void mostrarPeliculaFavorita() {
         // Se debe cambiar el valor de la variable pelicula
-        String pelicula = "300";
+        String pelicula = "Juegos del trono ";
         System.out.println("Mi pelicula favorita es: " + pelicula);
     }
 
