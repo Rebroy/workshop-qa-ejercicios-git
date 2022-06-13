@@ -73,11 +73,11 @@ public class Ejercicios {
 
     public static void sumarNumeros() {
         // Se debe cambiar el valor de los numeros a sumar, variable a y b
-        int a = 2;
-        int b = 6;
+        int a = 18;
+        int b = 15;
         int resultado = a + b;
 
-        System.out.println("La suma de " + a + " + " + b + " es: " + resultado);
+        System.out.println("La suma de los números " + a + " + " + b + " es: " + resultado);
     }
 
     public static void restarNumeros() {
