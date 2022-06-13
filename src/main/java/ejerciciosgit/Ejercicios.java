@@ -82,8 +82,8 @@ public class Ejercicios {
 
     public static void restarNumeros() {
         // Se debe cambiar el valor de los numeros a restar, variable a y b
-        int a = 6;
-        int b = 2;
+        int a = 1000;
+        int b = 250;
         int resultado = a - b;
 
         System.out.println("La resta de " + a + " - " + b + " es: " + resultado);
