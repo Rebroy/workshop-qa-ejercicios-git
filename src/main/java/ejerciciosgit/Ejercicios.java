@@ -19,7 +19,7 @@ public class Ejercicios {
 
     public static void cambiarNombre() {
         // Se debe cambiar el valor de la variable nombre
-        String nombre = "Yorber Capacitación QA Auomation";
+        String nombre = "Autobol";
         System.out.println("Mi nombre es: " + nombre);
     }
 
