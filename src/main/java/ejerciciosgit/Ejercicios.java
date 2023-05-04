@@ -37,8 +37,8 @@ public class Ejercicios {
 
     public static void mostrarEdad() {
         // Se debe cambiar el valor de la variable edad
-        int edad = 30;
-        System.out.println("Su edad actual es: " + edad + " años");
+        int edad = 90;
+        System.out.println("Mi edad es: " + edad + " años");
     }
 
     public static void tipoVehiculo() {
