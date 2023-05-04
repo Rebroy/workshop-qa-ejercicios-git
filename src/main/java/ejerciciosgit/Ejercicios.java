@@ -43,7 +43,7 @@ public class Ejercicios {
 
     public static void tipoVehiculo() {
         // Se debe cambiar el valor de la variable vehiculo
-        String vehiculo = "Tractomula";
+        String vehiculo = "Mazda";
         System.out.println("Mi vehiculo es un(a): " + vehiculo);
     }
 
@@ -55,7 +55,7 @@ public class Ejercicios {
 
     public static void mostrarComidaFavorita() {
         // Se debe cambiar el valor de la variable comida
-        String comida = "Italiana";
+        String comida = "Japonesa";
         System.out.println("Mi comida favorita es: " + comida);
     }
 
@@ -82,8 +82,8 @@ public class Ejercicios {
 
     public static void restarNumeros() {
         // Se debe cambiar el valor de los numeros a restar, variable a y b
-        int a = 1000;
-        int b = 250;
+        int a = 500;
+        int b = 500;
         int resultado = a - b;
 
         System.out.println("La resta de " + a + " - " + b + " es: " + resultado);
