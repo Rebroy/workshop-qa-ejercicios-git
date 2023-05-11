@@ -55,13 +55,13 @@ public class Ejercicios {
 
     public static void mostrarComidaFavorita() {
         // Se debe cambiar el valor de la variable comida
-        String comida = "Italiana";
+        String comida = "Mexicana";
         System.out.println("Mi comida favorita es: " + comida);
     }
 
     public static void mostrarPeliculaFavorita() {
         // Se debe cambiar el valor de la variable pelicula
-        String pelicula = "Juegos del trono ";
+        String pelicula = "Rapido y Furioso";
         System.out.println("Mi pelicula favorita es: " + pelicula);
     }
 
