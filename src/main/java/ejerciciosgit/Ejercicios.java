@@ -37,7 +37,7 @@ public class Ejercicios {
 
     public static void mostrarEdad() {
         // Se debe cambiar el valor de la variable edad
-        int edad = 90;
+        int edad = 35;
         System.out.println("Mi edad es: " + edad + " años");
     }
 
@@ -49,7 +49,7 @@ public class Ejercicios {
 
     public static void mostrarCancionFavorita() {
         // Se debe cambiar el valor de la variable cancion
-        String cancion = "Guaro";
+        String cancion = "índigo";
         System.out.println("Mi canción favorita es: " + cancion);
     }
 
@@ -73,8 +73,8 @@ public class Ejercicios {
 
     public static void sumarNumeros() {
         // Se debe cambiar el valor de los numeros a sumar, variable a y b
-        int a = 3;
-        int b = 7;
+        int a = 15;
+        int b = 20;
         int resultado = a + b;
 
         System.out.println("La suma de " + a + " + " + b + " es: " + resultado);
