@@ -19,13 +19,13 @@ public class Ejercicios {
 
     public static void cambiarNombre() {
         // Se debe cambiar el valor de la variable nombre
-        String nombre = "Autobol";
+        String nombre = "Pepe";
         System.out.println("Mi nombre es: " + nombre);
     }
 
     public static void capacidadVehiculo() {
         // Se debe cambiar el valor de la variable capacidad
-        String capacidad = "1500 Kg";
+        String capacidad = "2000 Kg";
         System.out.println("La capacidad del vehiculo es de: " + capacidad);
     }
 
@@ -61,20 +61,20 @@ public class Ejercicios {
 
     public static void mostrarPeliculaFavorita() {
         // Se debe cambiar el valor de la variable pelicula
-        String pelicula = "Rapido y Furioso";
+        String pelicula = "Titanic";
         System.out.println("Mi pelicula favorita es: " + pelicula);
     }
 
     public static void mostrarLibroFavorito() {
         // Se debe cambiar el valor de la variable libro
-        String libro = "Angeles y Demonios";
+        String libro = "The Lord of the rings";
         System.out.println("Mi libro favorito es: " + libro);
     }
 
     public static void sumarNumeros() {
         // Se debe cambiar el valor de los numeros a sumar, variable a y b
-        int a = 3;
-        int b = 7;
+        int a = 15;
+        int b = 15;
         int resultado = a + b;
 
         System.out.println("La suma de " + a + " + " + b + " es: " + resultado);
@@ -82,8 +82,8 @@ public class Ejercicios {
 
     public static void restarNumeros() {
         // Se debe cambiar el valor de los numeros a restar, variable a y b
-        int a = 1000;
-        int b = 250;
+        int a = 200;
+        int b = 200;
         int resultado = a - b;
 
         System.out.println("La resta de " + a + " - " + b + " es: " + resultado);
@@ -91,8 +91,8 @@ public class Ejercicios {
 
     public static void multiplicarNumeros() {
         // Se debe cambiar el valor de los numeros a multiplicar, variable a y b
-        int a = 2;
-        int b = 6;
+        int a = 10;
+        int b = 10;
         int resultado = a * b;
 
         System.out.println("La multiplicación de " + a + " * " + b + " es: " + resultado);
@@ -100,8 +100,8 @@ public class Ejercicios {
 
     public static void dividirNumeros() {
         // Se debe cambiar el valor de los numeros a dividir, variable a y b
-        int a = 8;
-        int b = 2;
+        int a = 10;
+        int b = 5;
         int resultado = a / b;
 
         System.out.println("La división de " + a + " entre " + b + " es: " + resultado);
