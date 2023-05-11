@@ -55,7 +55,7 @@ public class Ejercicios {
 
     public static void mostrarComidaFavorita() {
         // Se debe cambiar el valor de la variable comida
-        String comida = "Italiana";
+        String comida = "Mexicana";
         System.out.println("Mi comida favorita es: " + comida);
     }
 
