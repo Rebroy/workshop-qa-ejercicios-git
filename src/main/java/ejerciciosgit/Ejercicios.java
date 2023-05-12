@@ -31,7 +31,7 @@ public class Ejercicios {
 
     public static void distanciaRecorrida() {
         // Se debe cambiar el valor de la variable distancia
-        String distancia = "50 Km";
+        String distancia = "100 Km";
         System.out.println("La distancia recorrida fue de: " + distancia);
     }
 
